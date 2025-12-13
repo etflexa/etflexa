@@ -1,16 +1,18 @@
-## Hi there 👋
+# WisdowKeeper
 
-<!--
-**etflexa/etflexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Plataforma web de gestão de conhecimento voltada para auxiliar estagiários de TI
+na resolução de problemas recorrentes relacionados a ERP.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- React
+- TailwindCSS
+- Node.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Funcionalidades
+- Cadastro e busca de soluções
+- Organização por categorias
+- Interface responsiva
+
+## 🌐 Produção
+https://wisdowkeeper-o6y5.vercel.app
