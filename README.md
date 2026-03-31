@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋 Olá, eu sou o Eduardo Flexa</h1>
-<h3 align="center">Desenvolvedor Full Stack | Node.js • React • APIs • ERP</h3>
+<h3 align="center">Desenvolvedor Fullstack | ReactJS | Angular | NextJS | NodeJS</h3>
 
 
 <p align="center">
@@ -87,14 +87,7 @@ Plataforma web de **gestão de conhecimento** voltada para auxiliar estagiários
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=etflexa&show_icons=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etflexa&layout=compact" />
-</p>
-
----
+## 📊 GitHub Stats <p> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=etflexa&show_icons=true&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etflexa&layout=compact" /> </p> ---
 
 ## 🌱 Atualmente estudando
 
