@@ -2,9 +2,19 @@
 <h1 align="center">👋 Olá, eu sou o Eduardo Flexa</h1>
 <h3 align="center">Desenvolvedor Full Stack | Node.js • React • APIs • ERP</h3>
 
+
 <p align="center">
   <a href="https://linkedin.com/in/-eduardo-teixeira-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/etflexa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="https://tr.ee/PBbnFCUeS_" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-FF5722?logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://tr.ee/a5f2-5sVzx" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:teixeira_wifi@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
@@ -15,10 +25,21 @@
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Full Stack** com **4 anos de experiência** no desenvolvimento de sistemas web corporativos, atuando principalmente com **Node.js, React e APIs REST**.
+Sou o tipo de desenvolvedor que não espera ter o cargo para começar a construir. Sou formado em Ciência da Computação e coloco soluções em produção desde cedo na minha trajetória profissional.
 
-Tenho experiência prática com **ERP Oracle NetSuite (SuiteScript 1.0 e 2.0)**, refatoração de sistemas legados e desenvolvimento de soluções em produção.  
-Sou autor do **WisdowKeeper**, uma plataforma de gestão de conhecimento utilizada em ambiente real.
+Atuo em uma empresa que não é de tecnologia — e é exatamente aí que a mágica acontece.
+
+Analiso processos, identifico gargalos operacionais e desenvolvo soluções completas do zero: frontend, backend, banco de dados estruturado e tudo devidamente hospedado e em operação.
+
+Além do desenvolvimento, trabalho diretamente com gestão e automação de processos, utilizando Oracle NetSuite e SuiteScript para integrar dados, otimizar fluxos e apoiar a tomada de decisão.
+
+Não fico restrito apenas ao código: entendo o negócio, traduzo necessidades operacionais em sistemas e entrego soluções que realmente funcionam.
+
+É raro encontrar alguém que transite com naturalidade entre tecnologia e gestão — e isso faz parte do meu dia a dia.
+
+O que me move é transformar problemas do cotidiano em sistemas eficientes, escaláveis e úteis.
+
+🚀 Estou aberto a oportunidades.
 
 📍 Brasil | 🌎 Remoto
 
@@ -84,12 +105,7 @@ Plataforma web de **gestão de conhecimento** voltada para auxiliar estagiários
 
 ---
 
-## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/-eduardo-teixeira-
-- 📧 Email: teixeira_wifi@hotmail.com
-
----
 
 <p align="center">
   <i>“Código limpo é aquele que outra pessoa consegue entender.”</i>
