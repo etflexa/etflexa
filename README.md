@@ -87,7 +87,14 @@ Plataforma web de **gestão de conhecimento** voltada para auxiliar estagiários
 
 ---
 
-## 📊 GitHub Stats <p> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=etflexa&show_icons=true&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etflexa&layout=compact" /> </p> ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=etflexa&show_icons=true&count_private=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etflexa&layout=compact&theme=radical" />
+</p>
+
+---
 
 ## 🌱 Atualmente estudando
 
