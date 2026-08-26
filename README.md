@@ -4,9 +4,7 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/-eduardo-teixeira-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
+ 
   <a href="https://github.com/etflexa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
