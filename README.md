@@ -23,25 +23,6 @@
 
 ---
 
-## 🚀 Sobre mim
-
-Sou o tipo de desenvolvedor que não espera ter o cargo para começar a construir. Sou formado em Ciência da Computação e coloco soluções em produção desde cedo na minha trajetória profissional.
-
-Atuo em uma empresa que não é de tecnologia — e é exatamente aí que a mágica acontece.
-
-Analiso processos, identifico gargalos operacionais e desenvolvo soluções completas do zero: frontend, backend, banco de dados estruturado e tudo devidamente hospedado e em operação.
-
-Além do desenvolvimento, trabalho diretamente com gestão e automação de processos, utilizando Oracle NetSuite e SuiteScript para integrar dados, otimizar fluxos e apoiar a tomada de decisão.
-
-Não fico restrito apenas ao código: entendo o negócio, traduzo necessidades operacionais em sistemas e entrego soluções que realmente funcionam.
-
-É raro encontrar alguém que transite com naturalidade entre tecnologia e gestão — e isso faz parte do meu dia a dia.
-
-O que me move é transformar problemas do cotidiano em sistemas eficientes, escaláveis e úteis.
-
-🚀 Estou aberto a oportunidades.
-
-📍 Brasil | 🌎 Remoto
 
 ---
 
@@ -94,14 +75,7 @@ Plataforma web de **gestão de conhecimento** voltada para auxiliar estagiários
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etflexa&layout=compact&theme=radical" />
 </p>
 
----
 
-## 🌱 Atualmente estudando
-
-- Arquitetura de APIs
-- Boas práticas em Node.js
-- Segurança em aplicações web
-- Cloud e DevOps básico
 
 ---
 
